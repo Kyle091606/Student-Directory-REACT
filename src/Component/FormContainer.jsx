@@ -7,7 +7,7 @@ const FormContainer = () =>{
                         <label for="name">Student name</label>
                         <input type="text" name="name" id="name"></input> 
                     </div>
-                    <div class="studentform">
+                    <div class="input-fields">
                         <label for="program">Program</label>
                         <input type="text" name="program" id="program"></input>
                     </div>

@@ -1,8 +1,10 @@
-const HeaderContainer = () =>{
+const ListContainer = () =>{
     return(
         <>
-            
+            <section id="studentList">
+
+            </section>
         </>
     )
 }
-export default HeaderContainer;
+export default ListContainer;
