@@ -1,14 +1,10 @@
-import HeaderContainer from "./Component/HeaderContainer.jsx"
-import FormContainer from "./Component/FormContainer.jsx"
-import ListContainer from "./Component/ListContainer.jsx"
 import './style.css';
+import StudentPage from './Pages/StudentPage.jsx';
 
 function App() {
   return(
   <>
-    <HeaderContainer />
-    <FormContainer />
-    <ListContainer />
+    <StudentPage />
   </>
   )
 }
